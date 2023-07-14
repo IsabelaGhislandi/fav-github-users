@@ -1,5 +1,5 @@
 # fav-githubs-user
- An application to add user favorites from github
+ An application to add favorites user from github
 
 # Demonstration
 https://fav-githubs-user.vercel.app/
